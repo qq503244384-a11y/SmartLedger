@@ -1,0 +1,8 @@
+rootProject.name = "SmartLedger"
+include(":app")
+
+
+
+
+
+
